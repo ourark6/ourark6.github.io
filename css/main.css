@@ -2,7 +2,7 @@
 /* You may use #HEX or color names */
 
 /* * is a wildcard referring to all elements. */
-* { margin: 3; box-sizing: border-box; } 
+* { margin: 3px; box-sizing: border-box; } 
 
 body { 
     font-size: 16px; 
@@ -41,5 +41,5 @@ header img {
 }
 
 footer {
-    font-size: 12;
+    font-size: 12px;
 }
