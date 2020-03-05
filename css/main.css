@@ -14,7 +14,7 @@ body {
 h1 {
     font-size: 2.5rem;
     color: blue;
-    font-family: 'Lobster', cursive;
+    font-family: 'Dancing Script', cursive;
 
 }
 
@@ -22,6 +22,15 @@ h2 {
     font-size: 1.5rem;
     text-align: center;
     border-bottom: 3px solid pink;
+}
+
+p {
+    border: 1px solid #333;
+    padding: 7px;
+    background-color: #ddd;
+    text-align: justify;
+    font-family: 'Source Serif Pro', serif;
+
 }
 
 header, main, footer {
