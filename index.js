@@ -1,3 +1,4 @@
+// 
 let daynames = [];
 let months = [];
 
@@ -21,3 +22,9 @@ try {
     } catch (e) {
         alert("Error with code or your browser does not suppot Locale");
     }
+//
+
+function modified () {
+    var date = document.lastModified; 
+    document.getElementById("modif").innerHTML = date;
+}
